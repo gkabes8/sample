@@ -8,6 +8,6 @@ import android.widget.Toast;
 public class MyReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
-        Toast.makeText(context, "Language Changed after.", Toast.LENGTH_LONG).show();
+        Toast.makeText(context, "Language Changed ", Toast.LENGTH_LONG).show();
     }
 }
