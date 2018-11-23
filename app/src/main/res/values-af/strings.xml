@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="welcome">welkom</string>
+    <string name="login">teken aan</string>
+</resources>
