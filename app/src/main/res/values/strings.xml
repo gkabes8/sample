@@ -3,4 +3,5 @@
     <string name="app_name" translatable="false">MultiLanguage</string>
     <string name="welcome">Welcome</string>
     <string name="login">Login</string>
+ <string name="logout">Logout</string>
 </resources>
